@@ -44,24 +44,21 @@ Disciplina: Projeto Aplicado II
 
 
 ---
-
 # Dashboards
 
-## Dashboard 1
-![Dashboard 1](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:03.jpeg)
+![Dashboard 1](dashboard1.jpeg)
 
-## Dashboard 2
-![Dashboard 2](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:02%20(1).jpeg)
+![Dashboard 2](dashboard2.jpeg)
 
-## Dashboard 3
-![Dashboard 3](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:02.jpeg)
+![Dashboard 3](dashboard3.jpeg)
 
-## Dashboard 4
-![Dashboard 4](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:01.jpeg)
+![Dashboard 4](dashboard4.jpeg)
 
 ---
 
 # Documentos
 
-- [Documentação Técnica](DOCUMENTAÇÃO_TÉCNICA_BI.md)
-- [Dashboard HTML](BI.html)
+- [Documentação Técnica](documentacao_bi.md)
+
+- [Dashboard HTML](dashboard_bi.html)
+
