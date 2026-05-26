@@ -41,3 +41,27 @@ A base de dados utilizada contém informações sobre os jogos indicados ao prê
 
 Universidade Presbiteriana Mackenzie  
 Disciplina: Projeto Aplicado II
+
+
+---
+
+# Dashboards
+
+## Dashboard 1
+![Dashboard 1](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:03.jpeg)
+
+## Dashboard 2
+![Dashboard 2](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:02%20(1).jpeg)
+
+## Dashboard 3
+![Dashboard 3](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:02.jpeg)
+
+## Dashboard 4
+![Dashboard 4](Imagem%20do%20WhatsApp%202026-05-25%20às%2015:14:01.jpeg)
+
+---
+
+# Documentos
+
+- [Documentação Técnica](DOCUMENTAÇÃO_TÉCNICA_BI.md)
+- [Dashboard HTML](BI.html)
